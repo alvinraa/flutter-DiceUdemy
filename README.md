@@ -1,6 +1,6 @@
 # dice
 
-A new Flutter project.
+A new Flutter project. A project From Udemy Course.
 
 ## Getting Started
 
